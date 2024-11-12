@@ -56,9 +56,8 @@
 </summary>
     
 <h6>✨(Ctrl+클릭하면 새 탭에서 열립니다)</h6>
-- [OHaYou 프로젝트] (https://github.com/orgs/teamohayou/projects/1)    
-
-- [ToTee-Block프로젝트] (https://github.com/ToTee-Block)
+-  [OHaYou 프로젝트] (https://github.com/orgs/teamohayou/projects/1)    
+-  [ToTee-Block프로젝트] (https://github.com/ToTee-Block)
 
 
 
